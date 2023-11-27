@@ -1,0 +1,26 @@
+body{   
+	background-color:#000000;
+	color: #FFEBCD ;
+	font-family:Playfair Display ;
+}
+table{
+	border:1px solid pink;
+	border-collapse: collapse;
+}
+th{
+	border:1px solid pink;
+}
+td{
+	border:1px solid pink;
+}
+.houses{
+	height:25px;
+	width:25px;
+}
+.hogwards{
+	height:250px;
+	width:250px
+}
+h1{
+	text-align: center;
+}
